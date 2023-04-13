@@ -1,0 +1,582 @@
+infosys
+=======
+1)tell me about urself
+2)roles and responsibilities in project
+3)complete ci/cd flow(mainly asked questions)
+4)what are the jobs in jenkins
+5)what are the key aspects of jenkins
+6)what are the key aspects of devops
+7)what is terraform
+8)what is git
+9)tell me about git conflicts
+10)what is the cli command for how to see list of files, previously how many files are changed in git
+11)cloud watch
+12)types of buckets
+13)types of instances
+14)what is autoscaling group
+15)can we do code deploy and code pipeline in aws without using devops tools 
+16)what is code build
+17)what is non regional specific service.
+18)what is vpc explain about vpc.
+19)what u have used ticketing tool.
+20)how many types of pipelines.
+21)asking about which scripting used in project.
+22)route53
+23)what is the differenec between terminating instance and stoping the instance
+
+===============================================================================
+
+konceive
+========
+1)tell me about roles and responsibilities in project
+2)what is pipeline
+3)how you deployed in project
+4)before deploying what you have fallowed steps
+5)about docker
+6)if big docker file is there how you share that docker file to some person
+7)how the container talk with another container
+8)cloud formation
+9)cloudwatch
+10)in devops codepipeline to deploy appln is there,in aws so many ways are there to deploy application
+why we need to choose deploy application via cloudformation
+11)about vpc
+12)how you create infrastructure to deploy application,which service you have used
+13)which time your triggering the jobs
+14)which scripted you have used in the project
+15)size of your team
+16)who will do the deployments
+17)team size
+18)manual or scripting for deploying the project
+19)about git
+20)in your project mainly which commands ur using git commands
+21)ssh into
+22)how you will give the security to ssh
+23)if all the instances are running slow then what will you do
+24)in rds which type of instance you have used or which type database you have used
+25)how much time to take deployment the application
+
+======================================================================================
+deloitee
+========
+3rd interview
+=============
+1)  introduce ur self & roles and responsibilities?
+2)  what do u know about git?
+3)  as a developer in git what should do you in early morning?
+4)  what are maven stages?
+5)  what is docker?
+6)  docker container?
+7)  what is dockerfile?
+8)  docker build command?
+9)  docker run command?
+10) docker networks?
+11) explain about project?
+12) what is the diff between could trail and cloud watch?
+13) what should you do disaster recovery manually done or aumotate it?
+
+======================================================================================
+
+tutree
+=======
+4th interview
+=============
+1)  introduce yourself roles & responsibilities?
+2)  cicd pipeline?
+3)  what is diff betwen ci,cd?
+4)  what is difference bw continous delivery continous deployment?
+5)  how do u test the application before deploying??
+6)  what is cloudformation?
+7)  if i run application on 8080 port number can i run run application on some other on same port number?
+8)  if jenkins sudden goes down?what should we do that tym?
+9)  have you worked with ngnix?
+10) what is ci and cd?
+11) what is the disavantage of jenkins?
+12) what you have faced issues in ansible
+13) how many plugins you have installed? 
+
+======================================================================================
+
+5th interview
+=============
+tech canopy first round
+=======================
+1. about pipeline
+2. docker
+3. docker commands
+
+2nd round
+==========
+1. about pipeline
+2. if container goesdown then where will you check
+3. complete cicd pipeline
+4. what is the difference between cicd in aws and cicd in devops
+
+=======================================================================================
+
+6th interview
+=============
+thinkbizz
+=========
+1.roles & responsibilities
+2.what is docker
+3.if i want to host application in ec2 server what we need services
+4.what is the architecture deiagram
+===========================================================================
+
+7th interview
+=============
+synoptek
+========
+1.introduec yourself roles and responsibilities
+2.can we go inside container
+3.about docker
+4.what we will use commands in dockerfile
+5.stages of dockerfile
+6.give the example of dockerfile what you have used in your project
+7.are u configured elab or just taken elb in ec2 instance
+8.how you will configure the elb
+9.tell about cloud watch and cloud trail
+10.have done lambda what it will do
+11.have you used kubernetes
+12.tell me about kubernetes cluster
+13.are u provisioned ec2 instnace?
+14.have you done cross regeion cicd pipeliine
+15.have you done pipeline in aws
+16.have you used databse
+17.while doing deployment we need to configure database?which database you configured
+18.which server you have used in docker
+
+8th telephonic interview
+tcs
+====
+1.tell the roles and responsibilities
+2.what is the architecture you have used in devops project
+3.what kind of architecture
+4.if u have ec2 instance how you will manage
+5.tell the codedelpoy and code pipeline--in project
+6.what is the diff bet codepipe and code deploy
+7.what you have done critical deployments in project
+8.cloudwatch metrics
+9.have you used lambda
+
+9th interview
+=====================
+embeded
+=======
+1)pipeline
+2)deploy in virtual machine or container
+3)have you used full pipeline or not
+
+10th interview
+==============
+lnt infotech
+============
+1)which services u have used in most aws
+2)if we have an application  hosting ec2 instance what are prerequisites
+3)if cluster of database what should we do which service we need to use
+4)what is cloudfront
+5)how you will encrypt in ansible
+6)how you will decrypt in ansible
+7)git cherrypick command
+8)what are the ways to clone the repository
+9)jenkins support which language --groovy
+10)how you will secure to ec2 instance
+11)can we connect inside db to outsite db in docker
+12)how to check docker log
+13)differte docker logs are there we need to create file for that what is that
+14)docker mount command
+15)ec2 and rote53 which storage services it will come
+16)code deploy and code pipeline
+
+
+11th interview
+==============
+codevyasa
+=========
+1.tell me about yourself roles and responsibilities
+2.git clone git fetch git pull
+3.what are the day to day activies
+4.on ec2 machine without ip doesnot have public subnet and private subnet how 
+we will connect to the application
+5.tell me about ansible what exact it will do
+6.write ansible play book for apache server
+7.roles
+8.variables
+9.docker architecture
+10.what is docker what exact docker it is doing
+11.maven life cycle or maven goals
+12.what is scripted pipeline and declarative pipeline
+13.can we run parallel stages in groovy scritping
+14.lost pem file what we need to do
+
+2nd round:
+==========
+1.jenkins master and slave concept
+2.multibranch pipeline
+3.parallel jobs in groovy script
+4.write ansible play book
+
+
+12th interview
+==============
+zimetrics
+=========
+1)tell me about roles and responsibilities
+2)tell me about ur cicd pipeline
+3)what are triggering jobs are there
+4)what is build periodically and pollscm
+5)how you will create job
+6)how many types of jobs are there
+7)how you will configure jenkins
+8)how you will configure ansible
+9)how you will encrypt string
+10)explain me about ansible play book
+11)jenkins master slave concept
+12)master,1slave not working,i need to copy the data 2 another slave server how to do
+13)where you will configure in jenkins and ansible
+14)what is the difference between declarative and scripted
+15)netstat for port check
+16)how to check the process in linux
+17)what is ps -ef
+18)what is the diff between security group and nacl
+19)steps of ec2
+20)where u will mentions commands in ec2
+21)explain me about route 53 and dns
+22)how load balancer connect to the rout53
+23)how you will connect to the slave in ansible
+24)in quality gates issue came how you will do and where you will configure
+25)where you will write ansible play book in jenkins
+26)what is the diff between git full and git fetch
+27)how you will create branch
+28)how you will checkout branch
+29)if u commited one file i dont want that changes i want it back
+30)diff between chef and ansible
+31)if any issues in sonarqube job will stop or executing
+
+13 th interview
+===============
+adhtech group
+=============
+1)roles and responsibilities
+2)if ec2 instnace running timeout came what should we do
+3)one region to another region vpc how to connect
+4)in jenkins if ec2 some installing which plugin we need to install
+5)load balancers
+6)website https,ec2 http how to configure http to https
+7)cicd pipeline
+8)how to stop docker container
+9)docker file add copy
+10)webhooks in jenkins
+11)diff between public subnet and private subnet
+12)how you will do the ssl certificate
+
+14th interview
+==============
+param networks
+==============
+1.tell me about roles and responsibilities
+2.linux commands(mostly asked)
+3.ns.log> logs are asking
+4.pipeline
+
+15th interview
+==============
+sosuvconsulting
+===============
+1.roles and responsibitiles
+2.git fetch
+3.what wrk you are doing in git
+4.tell me ansible playbook
+5.explain pipeline
+
+
+16th interview
+==============
+thirdeyedata
+============
+1.tell me about roles and responsibilities
+2.how to stop running container and stoping the container
+3.explain the scripted pipeline
+4.in rds how you will give security group
+which one u will give private subnet or public subnet
+5.what is security group is a ec2 level or subnet level
+6.nacl
+7.routing policies in route 53
+8.one region one active and another region one active which roting policy you will give
+9.based  on location which one you will give
+
+17th interview
+==============
+live company
+============
+1.how will you do instead of config in git
+2.application architecture of aws
+
+18th interview
+==============
+
+19th interview
+===============
+fynd
+1)diff between security groups and nacl
+2)diff betw public subnet and private subnet
+3)security groups or nacl work to ec2 level
+4)three tier architecture
+5)what is docker
+6)cmd,entrypoint,add,copy,run,RUN
+7)docker run image2
+8)docker run image1
+9)internetgateway and natgateway
+10)how you will configure natgateway
+11)docker build command
+
+20 th interview
+===============
+ziffity
+=======
+1)diff bewtween security groups and nacl
+2)asg
+3)in ec2 how will u ssh root permission
+4)ssl certificate
+5)load balancers
+6)three tier architecture
+7)ansible modules
+8)if big ansible file is there how will you do single playbook or anything'
+9)docker add and copy command
+
+21 st interview
+===============
+wipro
+1)written test
+2)t1
+about urself
+multibranch pipeline detailed step by step explanation
+webhooks explain in detail
+sonarqube sever port
+how you will integrate sonarwith jenkins
+jenkins master slave concept
+wt is ansible wt is the use
+static inventory and dynamic inventory
+idempotency in ansible
+ansible play books
+wt is docker
+states of docker
+types of docker networks
+port forwarding in docker
+how to comunicate one container to another 
+max docker commands we should learn
+declarative vs scrptid pipeline
+in ec2 which one will use security group or nacl
+diff bet sg and nacl
+wt is accelarator in autoscaling groups
+route53
+rds
+vpc
+3)t2
+full real time pipeline questions
+
+22 nd interview
+===============
+hcl interview
+=============
+t1
+==
+mostly asked questions on git
+t2
+==
+i didnt rembered questions almost touched above questions git,jenkins,ansible,docker,maven,snarqube
+,nexus,docker with witing programes,syntaxes
+
+23th
+====
+techm
+=====
+branching strategy
+if jenkins 10 users connected then how to connect 1000 users
+write example of script
+
+24th tcs
+=========
+jenkins jobs
+docker commands
+vpc
+ec2
+asg
+git
+commands we need to practise more
+
+25th
+====
+capgemini
+what are git commands
+what is git pull and git fetch
+tell me about project
+
+26th
+====
+tcs
+===
+roles and responsibilties
+how your deploying
+how many envronemnts using
+which types of issues u faced in build
+what are the types of issues faced in deployment
+where your deploying
+differenece between ansible and terraform why we need both
+why ansible
+why terraform
+how your taking the environment
+if more jobs are there how your sharing the load
+what your using security jenkins
+what is docker and y
+what is container and y
+
+27th
+====
+privafy
+=======
+roles and responsibilities
+how your deploying
+what is docker
+writinf docker file
+writing docker compose
+y docker compose and y docker file
+ansible play book
+entry point and cmd
+we have script how u calling script in docker file
+tell me about pipelines
+ec2,iam,s3
+what are volumes in ec2
+vpc networking
+public subnet private subnet
+
+
+28th
+====
+hcl
+===
+roels and responsible
+how to check disk space
+if error in script how u will check
+netstat top
+grep
+jenkins architecture
+different pipelines
+writing grrovy scripting
+docker file
+docker compose
+ansible architecture
+ansible play book
+anisble roles and encryption
+ansible play  book commands
+how your deploying application
+webhooks
+git pull request
+git fetch and git pull
+how you will deplouy application in ec2 server
+docker volumes
+mount command
+docker networks
+29th
+====
+optsree
+=======
+roles and responsibilities
+docker
+writing docker file for spring boot application
+where ur deploying
+
+30th
+====
+nxp
+===
+roles and responsibilities
+ansible play book
+i want to run 100 of servers but one server not working how you will check
+splunk--how u will write query ang give query
+jenkins pipelines
+sdocker file
+docker commands build,run ,container
+
+31st
+optit
+======
+roles and responsibilities
+total talking about project
+
+32
+===
+turvo
+=====
+roles and responsibilities
+aboout project
+docker architecure
+docker file
+docker compose
+in docker compose how you will connect 1 container to anothet container
+ec2,vpc,s3,iam
+git pull git fetch
+git merge and rebase
+docker networks
+docker volumes
+types of volumes
+
+33
+==
+lnt infotech
+=============
+roles and responsibilities
+ansible master slave concept
+one server not working how will u check
+what will u do
+jenkins architecture
+pipelines
+ansible tower
+git pull and git fetch
+how you will check space error in jenkins
+
+34
+==
+tentwenty
+=========
+roles and responsibilities
+mainly in aws ec2,vpc
+jenkins pipeline
+
+35
+===
+client round:stellantis
+=======================
+without using servers how will use the resources
+docker architecture
+write docker file installing jdk racle on ubuntu
+docker compose
+shell scripting
+how you will cnct to the slaves
+how you will copy the content
+git fetch and git pull
+ansible plyabook and architecture
+how you will configure asg
+
+35
+==
+client round:hsbc
+=================
+roles and responsibilities
+terraform
+state lock file
+terraform refresh
+scrum calls
+agile methodologies
+git pull and git merge
+how will you check file sin git
+brancjing strategy
+about docker
+how your doing deployment
+how many containers ur using
+how many servers
+maven life cycle
+pom.xml file
+can we run more than one application in one port
+if build got failed how will u check code in sonarqube
+will u definew quality gates manually or predefined
